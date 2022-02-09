@@ -7,5 +7,8 @@
   },
   "devDependencies": {
     "nuxt3": "latest"
-  }
+  },
+  "keywords": [],
+  "name": "nuxt-3-components-auto-import-example",
+  "description": ""
 }
